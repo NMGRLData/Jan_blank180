@@ -8,7 +8,7 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 271,
+        "fn": 270,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
@@ -53,26 +53,26 @@
             "std_devs": 2
         },
         "fit": "Parabolic",
-        "fn": 265,
+        "fn": 263,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
         "value": 0.00787702362678205
     },
     "Ar40": {
-        "error": 0.026527041184812496,
+        "error": 0.011218448973461586,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 270,
+        "fit": "Parabolic",
+        "fn": 271,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 1.5753512457931849
+        "value": 0.9406856400991235
     },
     "Ar41": {
         "error": 0.014030952767063168,
