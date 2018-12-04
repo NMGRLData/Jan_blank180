@@ -60,19 +60,19 @@
         "value": -0.001335493431332626
     },
     "Ar40": {
-        "error": 0.015110973257237566,
+        "error": 0.009209512018091328,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
             "std_devs": 2
         },
-        "fit": "Linear",
-        "fn": 269,
+        "fit": "Parabolic",
+        "fn": 268,
         "include_baseline_error": false,
         "n": 280,
         "reviewed": true,
-        "value": 1.3021655761811637
+        "value": 0.944584537199343
     },
     "Ar41": {
         "error": 0.01501955938384249,
